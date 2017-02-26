@@ -1,0 +1,3 @@
+This is a technology called Steganography!
+It can hide some information in an image or a video.
+Here, I just use the LSB to store the information, so people can't tell the difference between 2 images with their eyes only.
